@@ -5,7 +5,7 @@ We are **PRobono**, a BU student team. We built this web page pro bono for **Go 
 | Team member | Role | Contact |
 |---|---|---|
 | Yitong Liu | Coding and website development | [rubygo33@bu.edu](mailto:rubygo33@bu.edu) |
-| Celine Hong | Content organization and formatting | [celineyh@bu.edu](mailto:celineyh@bu.edu) |
+| Celine Hong | Content organization | [celineyh@bu.edu](mailto:celineyh@bu.edu) |
 
 Original site: <https://sites.bu.edu/gobabygo/>
 
